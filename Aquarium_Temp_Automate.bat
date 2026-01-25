@@ -1,0 +1,2 @@
+cd C:\Users\Huber\OneDrive\Documents\Projects\Aquarium Temperature Reader
+"C:\Users\Huber\AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\Huber\OneDrive\Documents\Projects\Aquarium Temperature Reader\ESP_Temperature_Loggers\main.py"
